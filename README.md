@@ -2,7 +2,8 @@
 2022 Spring Introduction to Artificial Intelligence Final Project
 
 ### Members
-¦¶¶®¸©
-§õªä
-§d§B¿Î
-»u±Ó¦J
+æœ±é›…è±
+å³ä¼¯è«º
+æèŠ¯
+è¤šæ•åŒ¡
+
