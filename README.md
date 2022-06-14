@@ -1,4 +1,4 @@
-# SignLanguageRecognition
+# American Sign Language Alphbet Recognition 
 2022 Spring Introduction to Artificial Intelligence Final Project
 
 ### Members
